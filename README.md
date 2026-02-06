@@ -30,3 +30,7 @@ npx playwright install
 - `playwright.config.ts` - Base URL, browsers, timeouts.
 
 Base URL: `http://zero.webappsecurity.com/`
+
+## Test execution
+
+![Playwright Test Execution Report](<Screenshot 2026-02-06 at 15.33.03.png>)
